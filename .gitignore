@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Build artifacts
+build/
+dist/
+
+# Local download/cache tooling
+tools/_downloads/
+
+# OS/editor
+.DS_Store
+Thumbs.db
